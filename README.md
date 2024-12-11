@@ -1,5 +1,4 @@
-# IE534DeepDiveProject-Group-1
-# Predicting GPA Trends for UIUC Courses
+# IE534DeepDiveProject-Group-1: Predicting GPA Trends for UIUC Courses
 
 ## Team Members
 - **Helin Wang**
